@@ -6,7 +6,6 @@
 
 
   [![Communication](https://img.shields.io/badge/Communication-Clear%20%26%20Effective-brightgreen)](#)
-  [![Timely Delivery](https://img.shields.io/badge/Timely%20Delivery-High%20Quality-blue)](#)
   [![Satisfaction Commitment](https://img.shields.io/badge/Commitment-Satisfaction%20%26%20Success-orange)](#)
   [![Collaboration](https://img.shields.io/badge/Collaboration-Let%27s%20Collaborate!-success)](#)
 
